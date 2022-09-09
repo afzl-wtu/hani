@@ -9,3 +9,4 @@ I met many people in my life in public organizations like Universities, Hospital
 
 ## Request
 	I made this app opensource so you trust the app and share it to others. Help others to improve our country and its officials. To maintain server costs I am putting Google and facebook ads in the app which can be turned off, If you do not like the ads. But to make this project keep going and fulfill server costs please consider some donations. This app does not collect any of your data.
+                If you are developer, Pull requests are most welcomed. Please make your contributions related to GUI, performance and security.
