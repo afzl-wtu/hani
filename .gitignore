@@ -47,3 +47,4 @@ app.*.map.json
 /pubspec.lock
 /appwrite
 /lib/constants.dart
+android/app/google-services.json
